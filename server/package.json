@@ -1,0 +1,13 @@
+{
+  "name": "guesty_server",
+  "version": "1.0.0",
+  "description": "Guesty server",
+  "author": "cubannn@gmail.com",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
